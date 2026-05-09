@@ -1,3 +1,4 @@
+# v1.0 - Socxel Football Game
 import pygame
 import sys
 import math
