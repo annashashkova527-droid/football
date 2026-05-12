@@ -22,7 +22,7 @@
 - Pygame
 
 ## Видео
-[Ссылка на видеофайл (на GitHub)](https://github.com/annashashkova527-droid/football/blob/main/football.mp4)
+[Скачать видео (нажми для загрузки)](https://raw.githubusercontent.com/annashashkova527-droid/football/main/football.mp4)
 
 ## Запуск
 ```bash
