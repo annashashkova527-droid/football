@@ -17,14 +17,16 @@
 - Матч до **5 голов** или **3 минут**
 - Побеждает тот, у кого больше голов
 
-## Запуск
-```bash
-pip install pygame
-python fb3.py
-
 ## Технологии
 - Python 3
 - Pygame
 
 ## Видео
 (ссылка будет добавлена позже)
+
+## Запуск
+```bash
+pip install pygame
+python fb3.py
+
+
