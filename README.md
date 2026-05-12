@@ -22,7 +22,7 @@
 - Pygame
 
 ## Видео
-(ссылка будет добавлена позже)
+<video src='[https://raw.githubusercontent.com/annashashkova527-droid/football/main/football.mp4](https://github.com/annashashkova527-droid/football/raw/main/video.mp4)' controls width='100%'></video>
 
 ## Запуск
 ```bash
