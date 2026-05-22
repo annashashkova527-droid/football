@@ -154,7 +154,7 @@ class Player:
         pygame.draw.circle(screen, BLACK, (int(self.x)+7, int(self.y)-7), 2)
 
 # ----------------------------------------------------------------------
-# Класс AI (исправленный)
+# Класс AI
 # ----------------------------------------------------------------------
 class AI(Player):
     def __init__(self, x, y, color, name, difficulty='medium'):
@@ -360,9 +360,9 @@ def main():
             if score_left >= goal_limit or score_right >= goal_limit or time_left <= 0:
                 match_over = True
                 if score_left > score_right:
-                    winner_text = "Победил Игрок 1 / Вы!"
+                    winner_text = "Победил Игрок 1!"
                 elif score_right > score_left:
-                    winner_text = "Победил Игрок 2 / AI!"
+                    winner_text = "Победил Игрок 2!"
                 else:
                     winner_text = "Ничья!"
         else:
