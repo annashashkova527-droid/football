@@ -26,7 +26,7 @@
 - Pygame
 
 ## Видео
-[Скачать видео (нажми для загрузки)](https://raw.githubusercontent.com/annashashkova527-droid/football/main/football.mp4)
+[Скачать видео (нажми для загрузки)](https://rutube.ru/video/private/609c0e4bfc979b71b26367d4984c6c54/?p=zgHL9ACdTAowce-hodbDbQ)
 
 ## Запуск
 ```bash
