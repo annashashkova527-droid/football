@@ -630,10 +630,10 @@ def main():
                 match_over = True
                 session_stats["games_played"] += 1
                 if score_left > score_right:
-                    winner_text = "ПОБЕДИЛ ИГРОК 1 / ВЫ!"
+                    winner_text = "ПОБЕДИЛ ИГРОК 1!"
                     session_stats["left_wins"] += 1
                 elif score_right > score_left:
-                    winner_text = "ПОБЕДИЛ ИГРОК 2 / AI!"
+                    winner_text = "ПОБЕДИЛ ИГРОК 2!"
                     session_stats["right_wins"] += 1
                 else:
                     winner_text = "НИЧЬЯ!"
