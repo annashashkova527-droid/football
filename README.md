@@ -26,7 +26,7 @@
 - Pygame
 
 ## Видео
-[Перейти на Rutube для просмотра видео](https://rutube.ru/video/private/609c0e4bfc979b71b26367d4984c6c54/?p=zgHL9ACdTAowce-hodbDbQ)
+[Перейти на Rutube для просмотра видео](https://rutube.ru/video/private/711f6d8a445e8ae7fe19bf8e461b4203/?p=dEW5gl2cDUZWHPXFLGbRHg)
 
 ## Запуск
 ```bash
